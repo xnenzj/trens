@@ -1,0 +1,85 @@
+{
+  "movieName": "Dhurandhar The Revenge",
+  "yearReleased": "2026",
+  "languages": [
+    "Hindi",
+    "English",
+    "Telugu"
+  ],
+  "quality": "4K",
+  "posterUrl": "https://image.tmdb.org/t/p/w500/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
+  "streamLink": "https://play4u.org/tt39139925",
+  "streamLink2": "",
+  "rating": "7.3",
+  "runtime": 235,
+  "synopsis": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "backdropUrl": "https://image.tmdb.org/t/p/original/br4Ra4dRpvR0R7a1zPPkOwGkcky.jpg",
+  "trailerKey": "NHk7scrb_9I",
+  "cast": [
+    {
+      "name": "Ranveer Singh",
+      "character": "Hamza Ali Mazari / Jaskirat Singh Rangi",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/sRiwLmhduFghJo8U2coUafnDD4C.jpg"
+    },
+    {
+      "name": "Arjun Rampal",
+      "character": "Major Iqbal",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/1F81WNcVV5cW9O4D5Otk1Y2WHV9.jpg"
+    },
+    {
+      "name": "Rakesh Bedi",
+      "character": "Jameel Jamali",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/dWLCiA3rqnaFPn9s0bk2MiSq5Mt.jpg"
+    },
+    {
+      "name": "R. Madhavan",
+      "character": "Ajay Sanyal",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/gaDrAdXxIrbBRCd9cX8YvJDEuLb.jpg"
+    },
+    {
+      "name": "Manav Gohil",
+      "character": "Sushant Bansal",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/7E7FUlRJzzq6K3KWDo4H5UJlvqz.jpg"
+    },
+    {
+      "name": "Sara Arjun",
+      "character": "Yalina Jamali",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/uyZIlCL6xwWlor6JYSmIYUiPE7M.jpg"
+    },
+    {
+      "name": "Sanjay Dutt",
+      "character": "SP Chaudhary Aslam",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/70viNBvKHpX1kMZcfIwULqWnfdM.jpg"
+    },
+    {
+      "name": "Gaurav Gera",
+      "character": "Mohammad Aalam",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/l0kOZqfKusxfPp7wvkwDfNYT64K.jpg"
+    },
+    {
+      "name": "Danish Pandor",
+      "character": "Uzair Baloch",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/vDAzq7SJtVlTIj10Oa55BV3Qszm.jpg"
+    },
+    {
+      "name": "Danish Iqbal",
+      "character": "Dawood Ibrahim",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/tOKa5BhjgtXXxw3IEBq6jRybH95.jpg"
+    },
+    {
+      "name": "Udaybir Sandhu",
+      "character": "Gurbaaz \"Pinda\" Singh",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/mDZd85MYFzo15tvYSpk6mQPSB5M.jpg"
+    },
+    {
+      "name": "Bimal Oberoi",
+      "character": "Shirani",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/zAbX2B87d3XqsIq4Bus94HjPTU3.jpg"
+    }
+  ]
+}
