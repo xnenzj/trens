@@ -1,0 +1,83 @@
+{
+  "movieName": "Aadarsha Kutumbam House No: 47 - AK47",
+  "yearReleased": "2026",
+  "languages": [
+    "Telugu"
+  ],
+  "quality": "HD",
+  "posterUrl": "https://image.tmdb.org/t/p/w500/1Z0ypXqSRWjnjPRVU6YiHwawsLC.jpg",
+  "streamLink": "https://hdstream4u.com/file/3534oyklgxzx",
+  "streamLink2": "",
+  "rating": "5.5",
+  "runtime": 149,
+  "synopsis": "A tight-knit family faces an unexpected crisis that threatens their bond, forcing them to re-evaluate their values and fight to stay united.",
+  "genres": [
+    "Family",
+    "Comedy",
+    "Action"
+  ],
+  "backdropUrl": "https://image.tmdb.org/t/p/original/rzeJe8pONgRyalcTDM3gqXssqeM.jpg",
+  "trailerKey": "",
+  "cast": [
+    {
+      "name": "Venkatesh",
+      "character": "Chittibabu",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/t5PWjy177ZTUM6wdjaVjqp5FLJq.jpg"
+    },
+    {
+      "name": "Srinidhi Shetty",
+      "character": "Swarna",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/pTsixKDFS3n2xsvR6wDZ9J6jjfQ.jpg"
+    },
+    {
+      "name": "Nara Rohith",
+      "character": "",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/nfgWrE7d3IJwCDhwzg895djIQbB.jpg"
+    },
+    {
+      "name": "Nivetha Pethuraj",
+      "character": "",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/nfUWHQgNmtwPzWBaVlEQkjwo372.jpg"
+    },
+    {
+      "name": "Yuvina Parthavi",
+      "character": "Sampoorna",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/1PeXMRvuBppI9NGokjQNiysaFme.jpg"
+    },
+    {
+      "name": "Raja Prajwal",
+      "character": "Sarwa",
+      "profileUrl": ""
+    },
+    {
+      "name": "Rao Ramesh",
+      "character": "",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/jzO0wN21tEcmz0haekvliQU91JM.jpg"
+    },
+    {
+      "name": "Satya",
+      "character": "",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/fWHqfjiqnORU6R2fqwiJnowujdP.jpg"
+    },
+    {
+      "name": "Brahmaji",
+      "character": "",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/xDTE7POq1bkyjLINxdy7rW4wQlg.jpg"
+    },
+    {
+      "name": "Udaybir Sandhu",
+      "character": "",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/mDZd85MYFzo15tvYSpk6mQPSB5M.jpg"
+    },
+    {
+      "name": "Vennela Kishore",
+      "character": "",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/8a0mcxMPjD4KR15gyE5QmbDeTub.jpg"
+    },
+    {
+      "name": "Raghu Babu",
+      "character": "",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/9aE6s9wqHgRcBY7wiUfkEZMgJNK.jpg"
+    }
+  ]
+}
