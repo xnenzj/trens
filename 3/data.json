@@ -1,0 +1,86 @@
+{
+  "movieName": "418",
+  "yearReleased": "2026",
+  "languages": [
+    "Hindi",
+    "Tamil",
+    "Telugu",
+    "Malayalam",
+    "Kannada"
+  ],
+  "quality": "HD",
+  "posterUrl": "https://image.tmdb.org/t/p/w500/aNPNi3qUdAzKdtd1fKwMdUdyUcz.jpg",
+  "streamLink": "https://hdstream4u.com/file/wfv3vd4wnf8s",
+  "streamLink2": "",
+  "rating": "8.0",
+  "runtime": 157,
+  "synopsis": "Set in a medical college in a dread-stricken village, the film confronts the science behind superstitions, the superstitions in science, and an anomaly that neither can explain.",
+  "genres": [
+    "Horror",
+    "Thriller"
+  ],
+  "backdropUrl": "https://image.tmdb.org/t/p/original/nJjd0EHP5VPWTdGsere75SaSY4j.jpg",
+  "trailerKey": "eyIkfBMr-mI",
+  "cast": [
+    {
+      "name": "Chaithra J Achar",
+      "character": "",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/mCpqijk7HhguNYcffPhprGVHts5.jpg"
+    },
+    {
+      "name": "Charan Lakkaraju",
+      "character": "",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/hnUJ8NM2A1izIs7fEUMH5639iHr.jpg"
+    },
+    {
+      "name": "Preethi Pagadala",
+      "character": "",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/wt67U7wElfT4Q2B7wfQQbvJa7ej.jpg"
+    },
+    {
+      "name": "Ramesh Indira",
+      "character": "",
+      "profileUrl": "https://image.tmdb.org/t/p/w185/5Vq2jrYVPviTqe7s7DcLrrq57Rx.jpg"
+    },
+    {
+      "name": "Shashank Patil",
+      "character": "",
+      "profileUrl": ""
+    },
+    {
+      "name": "Shree Vaishnav",
+      "character": "",
+      "profileUrl": ""
+    },
+    {
+      "name": "Shrikanth Ganesh",
+      "character": "",
+      "profileUrl": ""
+    },
+    {
+      "name": "Surya Raj",
+      "character": "",
+      "profileUrl": ""
+    },
+    {
+      "name": "Kota Jayaram",
+      "character": "",
+      "profileUrl": ""
+    },
+    {
+      "name": "Bank Basha",
+      "character": "",
+      "profileUrl": ""
+    },
+    {
+      "name": "Satyanarayana Vaddadhi",
+      "character": "",
+      "profileUrl": ""
+    },
+    {
+      "name": "Recce Naidu",
+      "character": "",
+      "profileUrl": ""
+    }
+  ]
+}
